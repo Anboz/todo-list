@@ -46,10 +46,32 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	 				
 	 			</div>
 	 		</div>
-	 	<div class="col-md-7">
+	 	<div class="col-md-7 todo">	 	 
+	 	 <form action="" method="post">	 		  	 
+	 		  	<table class="table">
+	 		  		<tr style="border-width: 1px; border-color:#8d8587;border-bottom-style:solid;border-top-style:solid;  ">
+	 		  			<th style="border-left-style: solid;border-top-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">	 		  				
+	 		  				<input type="button" value="Сортировка" class="btn form-control  text-datk" name="user_name"/>
+	 		     		</th>
+	 		     		<th style="border-left-style: solid;border-top-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">
+	 		  				<input type="submit" value="по имени пользователя" class="btn form-control  text-success" name="user_name"/>
+	 		     		</th>
+	 		  			<th style="border-left-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">	 		
+	 		  				 <input type="submit" value="по email" class="btn form-control  text-success" name="user_email"/>	 		  	
+	 		  			</th>
+	 		  			<th style="border-left-style: solid; border-width: 1px; border-color:#8d8587; padding: 2px;">	 		  					 
+	 		  				 <input type="submit" value="по статус" class="btn form-control text-success" name="todo_text"/>	 		  	
+	 		  			</th>
+	 		  		</tr>	 		  		
+	 		  	</table>  		  	
+	 	 </form>
+	 	 	  	 
+	 		  	 
 	 		<div class="scrollbar" id="style-1">
 	 		  <div class="container">
-	 		  
+	 	 
+	 		  	
+	 		  <br>
 	 		  <?if(count($todo_list) > 0){ ?>
 	 		  
 	 		     <? foreach($todo_list as $row){?>
@@ -94,8 +116,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	 </div>
 	 		
 	 </div>
-	  <div align="center" >
-	 	
+	 
+	  <br>
+	  <div align="center" style="background-color:#b6adb1" >
+	 	<br>
 	    <?if($_GET['page'] > 2){ ?> 
 	    	 <a href="?page=1" class="btn btn-primary">1</a>	  
 		  	<a href="?page=<?=($_GET['page'] - 1)?>" class="btn btn-primary">
@@ -128,9 +152,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	     		<a href="?page=<?=$_GET['amount_pages']?>" class="btn btn-primary">	     		
 	     		<?=$_GET['amount_pages']?>	     		
 	     		</a>		  	  
-	  	<? } ?>	  		
+	  	<? } ?>	
+	  	<br>  		<br> 
 	  </div>
-
+	 <br>
 	
 	
 </body>

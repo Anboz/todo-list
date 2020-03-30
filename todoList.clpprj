@@ -11,9 +11,12 @@
  <removed value=";C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Pagination_Controller.php;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\SaveData.php;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Get_list_model.php;"/>
  <added value=""/>
  <lastopfiles>
-  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\welcome.php"/>
   <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\user_guide\_static\css\style.css"/>
   <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php"/>
+  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\welcome.php"/>
+  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php"/>
+  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php"/>
+  <file name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php"/>
   <lastactivefile name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\welcome.php"/>
  </lastopfiles>
  <todoblock>
@@ -446,11 +449,11 @@
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\errors\cli\error_db.php"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\errors\cli\error_404.php"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\errors\index.html"/>
-  <file crc="1585451579630" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\welcome.php"/>
+  <file crc="1585559577887" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\welcome.php"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\views\index.html"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\third_party\index.html"/>
   <file crc="1585295607650" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\SaveData_model.php"/>
-  <file crc="1585298638536" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php"/>
+  <file crc="1585558937894" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\index.html"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\logs\index.html"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\libraries\index.html"/>
@@ -459,7 +462,7 @@
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\hooks\index.html"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\helpers\index.html"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\core\index.html"/>
-  <file crc="1585394527462" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php"/>
+  <file crc="1585558818071" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\index.html"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\config\user_agents.php"/>
   <file crc="1568851724000" name="C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\config\smileys.php"/>
