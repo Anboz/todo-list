@@ -40,7 +40,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	 					 
 	 					
 	 					
-	 					<input type="submit" name="send_info" class="btn btn-primary" value="Сохранить">  
+	 					<input type="submit" name="send_info" class="btn btn-primary" value="Добавить">  
 	 					
 	 				</form>
 	 				
@@ -68,7 +68,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		 			  				 
 		 				<div class='row'>
 			 				<div class="col-md-3">
-			 				О задача
+			 				Задача
 			 				<hr>
 			 				<p>			 				 
 			 				<i style="color: <?=($row->status==0) ? 'red':'green'?>"><?=($row->status==0)?'Hе выполнено':"<img src='user_guide/_images/success.png'> Выполнено"?></i>			 			
@@ -131,7 +131,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	  	<? } ?>	  		
 	  </div>
 
-	<script src="user_guide/_static/js/js_scroll.js"></script>
+	
 	
 </body>
 </html>
