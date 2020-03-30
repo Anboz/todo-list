@@ -4821,18 +4821,10 @@
 <treenode node="$zipdata;PHP:Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\system\libraries\Zip.php;f8;61;16;61;;;;vposstring;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e">
 </treenode>
 </treenode>
-<treenode node="Load_data_model;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f1;3;2;62;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f1;3;2;24;;;;vpos;;v;;aCI_Model;;c;;r;;d39,3;;b0,0;;m0;;e">
-<treenode node="count_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f10;7;7;13;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f9;15;3;21;;;;vpos;;v;;a;;r;;d2,16;;b1,0;;m0;;e">
+<treenode node="Load_data_model;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f1;3;2;24;;;;vpos;;v;;aCI_Model;;c;;r;;d39,3;;b0,0;;m0;;e">
+<treenode node="count_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f9;15;3;21;;;;vpos;;v;;a;;r;;d2,16;;b1,0;;m0;;e">
 </treenode>
-<treenode node="delete_todo;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f3;35;7;38;;;;vpos;;v;;a;;r;;d3,36;;b0,0;;m0;;eid;;p;;x">
-</treenode>
-<treenode node="is_admin;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f3;53;4;59;;;;vpos;;v;;aint;;r;;d3,54;;b0,0;;m0;;edata;;p;;x">
-</treenode>
-<treenode node="select_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f13;39;4;48;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f10;5;4;13;;;;vpos;;v;;a;;r;;d3,6;;b1,0;;m0;;eorder;;pstart;;p;;x;;x">
-</treenode>
-<treenode node="update_status;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f4;28;8;31;;;;vpos;;v;;a;;r;;d4,29;;b0,0;;m0;;edata;;p;;x">
-</treenode>
-<treenode node="update_todoText;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\models\Load_data_model.php;f3;17;7;23;;;;vpos;;v;;a;;r;;d3,18;;b0,0;;m0;;edata;;p;;x">
+<treenode node="select_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\Load_data_model.php;f10;5;4;13;;;;vpos;;v;;a;;r;;d3,6;;b1,0;;m0;;eorder;;pstart;;p;;x;;x">
 </treenode>
 </treenode>
 <treenode node="SaveData_model;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\SaveData_model.php;f1;3;2;22;;;;vpos;;v;;aCI_Model;;c;;r;;d38,3;;b0,0;;m0;;e">
@@ -4841,24 +4833,12 @@
 <treenode node="select_data;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\NewFile0.php;f9;5;3;14;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\models\SaveData_model.php;f9;9;3;18;;;;vpos;;v;;a;;r;;d2,10;;b1,0;;m0;;esart;;p;;x">
 </treenode>
 </treenode>
-<treenode node="Welcome;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f0;3;1;129;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f0;3;1;72;;;;vpos;;v;;aCI_Controller;;c;;r;;d36,3;;b0,0;;m0;;e">
-<treenode node="Delete_And_Change;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f1;91;2;98;;;;vpos;;v;;a;;r;;d29,91;;b0,0;;m0;;e">
-</treenode>
+<treenode node="Welcome;PHP:Class Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f0;3;1;72;;;;vpos;;v;;aCI_Controller;;c;;r;;d36,3;;b0,0;;m0;;e">
 <treenode node="addToList;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f8;30;2;50;;;;vpos;;v;;a;;r;;d28,30;;b1,0;;m0;;e">
-</treenode>
-<treenode node="delete_todo;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f3;84;2;87;;;;vpos;;v;;a;;r;;d25,84;;b0,0;;m0;;e">
 </treenode>
 <treenode node="getBody;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f1;52;2;66;;;;vpos;;v;;a;;r;;d19,52;;b0,0;;m0;;e">
 </treenode>
-<treenode node="index;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\saveData.php;f8;21;2;24;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f8;20;2;40;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f8;20;2;26;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    index()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Index Page for this controller.&#10;Maps to the following URL&#10;http://example.com/index.php/welcome&#10;- or -&#10;http://example.com/index.php/welcome/index&#10;- or -&#10;Since this controller is set as the default controller in&#10;config/routes.php, it&apos;s displayed at http://example.com/&#10;So any other public methods not prefixed with an underscore will&#10;map to /index.php/welcome/&lt;method_name&gt;&#10;&lt;b&gt;see&lt;/b&gt;: https://codeigniter.com/user_guide/general/urls.html;;d1,21;;b1,0;;m0;;e">
-</treenode>
-<treenode node="load_view;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f1;43;2;59;;;;vpos;;v;;a;;r;;d21,43;;b0,0;;m0;;e">
-</treenode>
-<treenode node="login;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f4;102;2;127;;;;vpos;;v;;a;;r;;d20,102;;b0,0;;m0;;e">
-</treenode>
-<treenode node="update_status;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f4;73;2;80;;;;vpos;;v;;a;;r;;d28,73;;b0,0;;m0;;e">
-</treenode>
-<treenode node="update_text;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList_admin\application\controllers\Welcome.php;f4;63;2;70;;;;vpos;;v;;a;;r;;d26,63;;b0,0;;m0;;e">
+<treenode node="index;PHP:Function Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\saveData.php;f8;21;2;24;;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f8;20;2;26;;;;vpos;;v;;a;;r&#10;&lt;b&gt;Definition&lt;/b&gt;&#10;    index()&#10;&#10;&lt;b&gt;Description&lt;/b&gt;&#10;    Index Page for this controller.&#10;Maps to the following URL&#10;http://example.com/index.php/welcome&#10;- or -&#10;http://example.com/index.php/welcome/index&#10;- or -&#10;Since this controller is set as the default controller in&#10;config/routes.php, it&apos;s displayed at http://example.com/&#10;So any other public methods not prefixed with an underscore will&#10;map to /index.php/welcome/&lt;method_name&gt;&#10;&lt;b&gt;see&lt;/b&gt;: https://codeigniter.com/user_guide/general/urls.html;;d1,21;;b1,0;;m0;;e">
 </treenode>
 <treenode node="$pages;PHP:Var Name;C:\Users\User\Downloads\OSPanel\domains\localhost\todoList\application\controllers\Welcome.php;f9;28;15;28;;;;vpos;;v;;a;;r;;d-1,-1;;b1,0;;m0;;e">
 </treenode>
