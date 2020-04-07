@@ -126,8 +126,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		  	<<
 		  	</a>
 	   <? } ?>	  
-	  	<a href="?page=<?=($_GET['page'] > 1 && $_GET['page'] < $_GET['amount_pages']) ? $_GET['page'] - 1 :(($_GET['page'] == $_GET['amount_pages'])? $_GET['amount_pages'] - 2 : 1) ?>" class="btn btn-<?=($_GET['page'] == 1) ? 'dark' : 'primary'?>">
-	  	<?=($_GET['page'] > 1 && $_GET['page'] < $_GET['amount_pages']) ? $_GET['page'] - 1 : (($_GET['page'] == $_GET['amount_pages'])? $_GET['amount_pages'] - 2 : 1)?>	  		
+	  	<a href="?page=<?=($_GET['page'] > 1 && $_GET['page'] < $_GET['amount_pages']) ? $_GET['page'] - 1 :(($_GET['page'] == $_GET['amount_pages'] &&  $_GET['amount_pages'] > 2)? $_GET['amount_pages'] - 2 : 1) ?>" class="btn btn-<?=($_GET['page'] == 1) ? 'dark' : 'primary'?>">
+	  	<?=($_GET['page'] > 1 && $_GET['page'] < $_GET['amount_pages']) ? $_GET['page'] - 1 : (($_GET['page'] == $_GET['amount_pages']&&  $_GET['amount_pages'] > 2)? $_GET['amount_pages'] - 2 : 1)?>	  		
 	  	</a>
 	  	
 	    <? if( $_GET['amount_pages'] > 1){ ?>
